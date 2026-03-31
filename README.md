@@ -61,7 +61,7 @@ Kali Linux, Windows
 
 ## 📫 Contact Information
 
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 📧 Email: muhamedanas960@gmail.com
 * 💼 LinkedIn: https://linkedin.com/in/your-profile
 
 ---
