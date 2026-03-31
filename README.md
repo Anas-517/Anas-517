@@ -43,19 +43,7 @@ Kali Linux, Windows
 * Monitored logs and detected suspicious activity
 * Practiced basic incident response techniques
 
-*(Add your GitHub project links here)*
 
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=default)
-
----
-
-## 📈 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)
 
 ---
 
